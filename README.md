@@ -1,9 +1,15 @@
-The Committee Draft of Amendment 1 to SMPTE ST 2067-21:2016, as contained in _35PM-CD-ST-2067-21-2016-AM1.pdf_, adds support for the Hybrid Log-Gamma (HLG) high-dynamic range format specified in ITU-R BT.2100.
+# SMPTE ST 2067-21:2020 Am1:2020
 
-This Committee Draft was made available by the [Society of Motion Picture and Television Engineers](https://www.smpte.org) for a public review period, which ended on July 23, 2020. The document is now being processed for publication.
+_This repository is *public*._
 
-_Note that the published document may ultimately differ from this Committee Draft._
+Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONFIDENTIALITY.md), [LICENSE.md](./LICENSE.md) and
+[PATENTS.md](./PATENTS.md) for important notices.
 
-This material is work under development and shall not be referred to as a SMPTE Standard, Recommended Practice, or Engineering Guideline. It is distributed for review and comment; distribution does not constitute publication.
+A Committee Draft of [ST 2067-21:2020 Am1:2020](https://doi.org/10.5594/SMPTE.ST2067-21.2020Am1.2020) was previously made available
+here for a public review period, which ended on 2021-04-29. The document is now
+[published](https://doi.org/10.5594/SMPTE.ST2067-21.2020Am1.2020) and may substantially diverge from the Committee Draft.
 
-Please see CONTRIBUTING.md, PATENT.md and LICENSE.md for important intellectual property information.
+## Feedback
+
+Please provide feedback at [GitHub issues](https://github.com/SMPTE/st2067-21/issues) (preferred) or
+[35pm-chair@smpte.org](mailto:35pm-chair@smpte.org).
